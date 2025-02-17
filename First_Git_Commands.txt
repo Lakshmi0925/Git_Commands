@@ -19,3 +19,10 @@ normal git commands:
 -----------------------
 git status
 git add .
+Here we provide the email id 
+git config --global user.email "lakshmi.0453@gmail.com"
+git commit -m " provide commit related comment"
+Step5:git log / git log -a  (shows the all the committed files)
+Step6: git checkout (shift the control)
+Ex: git checkout <master>  shifted to last branch
+
